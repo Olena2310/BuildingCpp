@@ -143,7 +143,6 @@
     <ClCompile Include="Flat_rent.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Building.h" />
     <ClInclude Include="Flat.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
